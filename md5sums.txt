@@ -1,0 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+c04eb1b5647302389aaca3a4c4c53db9  keyrings/lll-project-keyring.gpg
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAk2lua8ACgkQfjgOWUMp6xUkswCbBjAIBv7+eTUUKt9DTiw4iiW4
+fqYAmwXHs4PhMBGeyRWSQXkQ3SZuYz34
+=AAke
+-----END PGP SIGNATURE-----

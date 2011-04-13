@@ -1,0 +1,16 @@
+Source: lll-project-keyring
+Section: misc
+Priority: optional
+Maintainer: Bryce Lelbach (wash) <blelbach@cct.lsu.edu>
+Bugs: mailto:blelbach@cct.lsu.edu
+Homepage: https://github.com/lll-project
+Standards-Version: 3.9.1
+Build-Depends: debhelper (>= 7)
+
+Package: lll-project-keyring
+Architecture: all
+Depends: gnupg (>= 1.0.6-4), ${misc:Depends}
+Description: GnuPG archive key of the debian-multimedia repository
+ The lll-project digitally signs its packages and repository Release files. This
+ package contains the repository key used for that.
+
